@@ -74,9 +74,6 @@ body {
     .navbar-left {
         padding-left: 0px;
     }
-
-   
-
 }
 
 
@@ -111,13 +108,13 @@ body {
     width: 100%;
 }
 
-.button-main  {
+.button-main {
     display: flex;
     justify-content: center;
     align-items: center;
     text-decoration: none;
     padding: 5px 10px;
-    width: 10%;
+    width: -20%;
     height: 20px;
     border: 1px solid black;
     border-radius: 4px;
@@ -125,7 +122,7 @@ body {
     color: rgb(0, 0, 0);
     background-color: white;
     font-weight: 700;
-    font-size: 8px;
+    font-size: 9px;
 }
 
 .button-main:hover {
