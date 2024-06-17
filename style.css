@@ -76,11 +76,13 @@ body {
     }
 
    
+
 }
 
 
 .main {
     background-image: url('./Image/background.jpg');
+    background-position: center;
 }
 
 .main-container {
